@@ -1,6 +1,6 @@
 /*
  * Created by IntelliJ IDEA.
- * User: otakusenseihig
+ * User: Nkem Ohanenye
  * Date: 11/3/17
  * Time: 5:21 PM
  */
@@ -72,11 +72,6 @@ public class ReadAndWrite {
 
     public String getDirectory() {
         return directory;
-    }
-
-    public void setFos(File f, boolean boo) {
-        this.file = f;
-        this.dupe = boo;
     }
 
     public String getWords() {
